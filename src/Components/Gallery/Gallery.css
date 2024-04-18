@@ -1,0 +1,102 @@
+.gallery-content{
+   margin-left: 150px;
+   margin-top: 80px;
+}
+.gallery-content h2{
+    font-size: 32px;
+    font-weight: 600;
+    color: #121036;
+}
+.gallery-content p {
+    color: #2C3136;
+    font-size: 14px;
+    font-weight: 400;
+}
+.btn5{
+    background: linear-gradient(102.67deg, #5B53F9 7.43%, #AC71D6 46.26%, #FF8E57 104.5%);
+    border: 1px solid white;
+    width: 220px;
+    height: 35px;
+    position: absolute;
+    border-radius: 100px;
+    color: white;
+    cursor: pointer;
+    margin-top: -38px;
+    margin-left: 830px;
+}
+
+
+.gallery-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    /* margin-top: 100px; */
+}
+.gallery{
+    width: 325px;
+    background-color: white;
+    border-radius: 8px;
+    border: 1px solid white;
+    margin: 20px;
+    overflow: hidden;
+   
+
+}
+.gallery img{
+    width: 376px;
+    height: 325px;
+    /* height: auto; */
+    border-radius: 8px;
+    box-shadow: 0px 10px 84px -10px #1F356733;
+}
+.gallery-img-content{
+    padding: 16px 0;
+}
+.gallery-img-content h3{
+    font-size: 28px;
+    margin-bottom: 8px;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: left;
+}
+.gallery-img-content p {
+   
+ /* line-height: 1.3; */
+ font-family: Montserrat;
+font-size: 14px;
+font-weight: 400;
+text-align: left;
+
+}
+.btn4{
+
+    border: 1px solid black;
+    width:250px;
+    height: 30px;
+    border-radius: 100px;
+    color: black;
+    cursor: pointer;
+    margin-top: 20px;
+    background: white;
+}
+.gallery-img-content .arrow-img{
+    margin-left: 5px;
+    width: 10px;
+}
+.gallery-img-content p {
+   
+    /* line-height: 1.3; */
+   font-family: Montserrat;
+   font-size: 14px;
+   font-weight: 400;
+   padding-top: 10px;
+   text-align: left;
+   
+   }
+.skip-page{
+  margin-left: 600px;
+  width: 125px;
+  height: 20px;
+  display: inline-block;
+}

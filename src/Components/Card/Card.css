@@ -1,0 +1,119 @@
+.card-section{
+    height: 1050px;
+    width: 100%;
+    /* position: absolute; */
+    background: linear-gradient(96.43deg, #5B53F9 -16.57%, #AC71D6 35.61%, #FF8E57 113.87%);   
+}
+.wave-img{
+    width: 1000px;
+    height: 1000px;
+    rotate: 360deg;
+}
+ .card-content{
+    margin-top: -850px;
+    margin-left: 124px;
+}
+.card-content h2{
+    font-weight: 600;
+    color:  white;
+}
+.card-content P{
+    font-size: 12px;
+    color: white;
+    font-weight: 400;
+}
+.btn3{
+    background: linear-gradient(102.67deg, #5B53F9 7.43%, #AC71D6 46.26%, #FF8E57 104.5%);
+    border: 1px solid white;
+    width:150px;
+    height: 40px;
+    border-radius: 100px;
+    color: white;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.card1{
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
+    padding: 20px;
+    width: 400px;
+    border-radius: 10px;
+    color: #676767;
+    background-color: #fff;
+    line-height: 1.4;
+    margin-left: 650px;
+    margin-top: -210px;
+}
+.card1 img{
+    width: 65px;
+    border-radius: 10%;
+    margin: 10px;
+    padding: 20px;
+    background: #212ea0;
+}
+.card-info{
+    
+    align-items: center;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+.card1 p{
+    font-size: 14px;   
+}
+h3{
+    color:#261234;
+}
+.card2{
+    box-shadow: 0 0 20px rgba(238, 217, 217, 0.05);
+    padding: 20px;
+    width: 400px;
+    border-radius: 10px;
+    color: #676767;
+    background-color: #fff;
+    line-height: 1.4;
+    margin-left: 650px;
+    margin-top: 10px;
+}
+.card2 img{
+    width: 65px;
+    border-radius: 10%;
+    margin: 10px;
+    padding: 20px;
+    background: #212ea0;
+}
+.card-info{
+    
+    align-items: center;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+.card2 p{
+    font-size: 14px;
+}
+.card3{
+    box-shadow: 0 0 20px rgba(238, 217, 217, 0.05);
+    padding: 20px;
+    width: 400px;
+    border-radius: 10px;
+    color: #676767;
+    background-color: #fff;
+    line-height: 1.4;
+    margin-left: 650px;
+    margin-top: 10px;
+}
+.card3 img{
+    width: 65px;
+    border-radius: 10%;
+    margin: 10px;
+    padding: 20px;
+    background: #212ea0;
+}
+.card-info{
+    
+    align-items: center;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+.card3 p{
+    font-size: 14px;
+} 

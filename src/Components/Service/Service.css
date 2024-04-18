@@ -1,0 +1,239 @@
+.service-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.service-heading{
+    gap: 28px;
+    font-size: 24px;
+    font-weight: 400;
+}
+.service-content{
+    text-align: center;
+    font-size: 14px;
+}
+.service-img img{
+    width: 600px;
+    height: 540px;
+   margin-top: 20px;
+}
+/* .list-icon{
+    position: absolute;
+    margin-top: -255px;
+    margin-left: -280px;
+}
+.list-icon span{
+color: white;
+font-size: 12px;
+font-weight: 500;
+}
+.icon1{
+display: flex;
+flex-direction: column;
+}
+.icon1 img{
+  width: 20px;
+  margin-bottom: 2px;
+}
+.list-icon2{
+    position: absolute;
+    margin-top: -255px;
+    margin-left: -120px;
+    align-items: center;
+}
+.list-icon2 span{
+color: white;
+font-size: 12px;
+font-weight: 500;
+}
+.icon2{
+display: flex;
+flex-direction: column;
+}
+.icon2 img{
+width: 20px;
+margin-left: 30px;
+margin-bottom: 2px;
+}
+.list-icon3{
+    position: absolute;
+    margin-top: -255px;
+    margin-left: 90px;
+    align-items: center;
+}
+.list-icon3 span{
+color: white;
+font-size: 12px;
+font-weight: 500;
+}
+.icon3{
+display: flex;
+flex-direction: column;
+}
+.icon3 img{
+width: 20px;
+margin-left: 25px;
+margin-bottom: 2px;
+}
+.list-icon4{
+    position: absolute;
+    margin-top: -255px;
+    margin-left: 245px;
+    align-items: center;
+}
+.list-icon4 span{
+color: white;
+font-size: 12px;
+font-weight: 500;
+}
+.icon4{
+display: flex;
+flex-direction: column;
+}
+.icon4 img{
+width: 20px;
+margin-left: 5px;
+margin-bottom: 2px;
+}
+.list-icon5{
+    position: absolute;
+    margin-top: -100px;
+    margin-left: -175px;
+    align-items: center;
+}
+.list-icon5 span{
+color: white;
+font-size: 12px;
+font-weight: 500;
+margin-left: -30px ;
+}
+.mob-icon{
+display: flex;
+flex-direction: column;
+}
+.mob-icon img{
+width: 20px;
+margin-left: 15px;
+margin-bottom: 2px;
+}
+.list-icon6{
+    position: absolute;
+    margin-top: -100px;
+    margin-left: 220px;
+    align-items: center;
+}
+.list-icon6 span{
+color: white;
+font-size: 12px;
+font-weight: 500;
+margin-left: -20px ;
+}
+.email-icon{
+display: flex;
+flex-direction: column;
+}
+.email-icon img{
+width: 20px;
+margin-left: 20px;
+margin-bottom: 2px;
+}
+
+.list-icon7{
+    position: absolute;
+    margin-top: -100px;
+    margin-left: 30px;
+    align-items: center;
+}
+.list-icon7 span{
+color: white;
+font-size: 12px;
+font-weight: 500;
+margin-left: -30px ;
+}
+.remark-icon{
+display: flex;
+flex-direction: column;
+}
+.remark-icon img{
+width: 20px;
+margin-left: 0px;
+margin-bottom: 2px;
+}
+
+.list-icon8{
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 30px;
+    align-items: center;
+}
+.list-icon8 span{
+color: white;
+font-size: 12px;
+font-weight: 500;
+margin-left: -30px ;
+}
+.rate-icon{
+display: flex;
+flex-direction: column;
+}
+.rate-icon img{
+width: 20px;
+margin-left: 50px;
+margin-bottom: 2px;
+}
+
+.list-icon9{
+    position: absolute;
+    margin-top: 190px;
+    margin-left: 30px;
+    align-items: center;
+}
+.list-icon9 span{
+color: white;
+font-size: 12px;
+font-weight: 500;
+margin-left: -30px;
+margin-top: 5px;
+}
+.web-icon{
+display: flex;
+flex-direction: column;
+}
+.web-icon img{
+width: 20px;
+margin-left: 30px;
+margin-bottom: 2px;
+margin-top: -5px;
+}
+.list-icon10{
+    position: absolute;
+    margin-top: 330px;
+    margin-left: 30px;
+    align-items: center;
+}
+.list-icon10 span{
+color: white;
+font-size: 12px;
+font-weight: 500;
+margin-left: -30px;
+margin-top: 2px;
+}
+.ic_email-icon{
+display: flex;
+flex-direction: column;
+}
+.ic_email-icon img{
+width: 20px;
+margin-left: 5px;
+margin-bottom: 2px;
+margin-top: -5px;
+}
+
+.blank{
+    position: absolute;
+    width: 600px;
+    height: 200px;
+   margin-top: 580px;
+   background: white;
+} */
