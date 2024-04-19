@@ -9,6 +9,9 @@ import Overview from './Components/Overview/Overview'
 import Adds from './Components/AddSection/Adds'
 import Gallery from './Components/Gallery/Gallery'
 import Review from './Components/Review/Review'
+import Footer from './Components/Footer/Footer'
+import Contact from './Components/Contact/Contact'
+import Insight from './Components/Insight/Insight'
 
 
 function App() {
@@ -25,6 +28,11 @@ function App() {
       <Adds/>
       <Gallery/>
       <Review/>
+     <Insight/>
+      <Contact/>
+
+      <Footer/>
+      
      
     </>
   

@@ -58,7 +58,7 @@ text-align: left;
     font-size: 12px;
     font-weight: 500;
     margin-top: -26px;
-    color: linear-gradient(103.47deg, #5B53F9 22.39%, #AC71D6 46.68%, #FF8E57 83.1%);
+   background-color:  linear-gradient(103.47deg, #5B53F9 22.39%, #AC71D6 46.68%, #FF8E57 83.1%);
 
 }
 .review-content h6{
